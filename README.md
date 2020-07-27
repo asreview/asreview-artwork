@@ -11,7 +11,7 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 ![Balloons](ElasAdventures/ELASholdingSIGNS/PNG/BiggerSize/Published_extra.png)
 
 
-* The folder **Illustrations** contains Illustrations that illustrate the workflow of systematic reviews with and without the use of ASReview. For example
+* The folder **Illustrations** contains Illustrations that illustrate the workflow of systematic reviews with and without the use of ASReview. For example:
 
 
 ![Illustrations](Illustrations/OtherVersions/AB_Awesomepublication.jpg)
@@ -26,10 +26,24 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 * The folder **LogoASReviewLAB** contains raw and compiled files of the ASReviewLAB logo:
 
 
+
+
+
+
 ![Illustrations](LogoASReviewLAB/PNG/Wordmark_LAB.png)
 
 
-* The folder **SVGicons** contains svg's that are used in the app
+
+
+
+
+
+* The folder **SVGicons** contains svg's that can be used on the website or in the app
+
+
+
+
+
 
 
 ![Illustrations](SVGicons/Corona/Corona24px24px.png)
