@@ -8,7 +8,7 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 * The folder **ElasAdventures** contains vectorart of Elas on different adventures, for example:
 
 
-![Balloons](ElasAdventures/Balloons/IconBalloons_JPG_1280x2023.jpg)
+![Balloons](ElasAdventures/ELASholdingSIGNS/PNG/BiggerSize/Published_extra.png)
 
 
 * The folder **Illustrations** contains Illustrations that illustrate the workflow of systematic reviews with and without the use of ASReview. For example
@@ -26,7 +26,7 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 * The folder **LogoASReviewLAB** contains raw and compiled files of the ASReviewLAB logo:
 
 
-![Illustrations](LogoASReviewLAB/PNG/Logo_stacked.png)
+![Illustrations](LogoASReviewLAB/PNG/Wordmark_LAB.png)
 
 
 * The folder **SVGicons** contains svg's that are used in the app
