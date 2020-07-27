@@ -1,5 +1,3 @@
-[![ASReview](PNG/RepoCardGithub1280x640.png)](https://github.com/asreview/asreview/)
-
 # ASReview artwork
 
 This repository contains the artwork for the [ASReview website](https://asreview.nl/).
