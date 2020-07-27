@@ -10,11 +10,11 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 
 * The folder **Illustrations** contains Illustrations that illustrate the workflow of systematic reviews with and without the use of ASReview. For example:
 
-<img src="Illustrations/OtherVersions/AB_Awesomepublication.jpg" width=100>
+<img src="Illustrations/OtherVersions/AB_Awesomepublication.jpg" width=300>
 
 * The folder **LogoASReview** contains raw and compiled files of our logo:
 
-<img src="LogoASReview/JPG/Horizontal_Lockup1280x640.jpg" width=100>
+<img src="LogoASReview/JPG/Horizontal_Lockup1280x640.jpg" width=200>
 
 * The folder **LogoASReviewLAB** contains raw and compiled files of the ASReviewLAB logo:
 
