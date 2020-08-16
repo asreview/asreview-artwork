@@ -5,8 +5,8 @@
 This repository contains the artwork for the [ASReview](https://github.com/asreview/asreview/) 
 project. The artwork and logos were made by [Joukje Willemsen](https://joukjewillemsen.github.io/). The work is licensed under Creative Commons License (CC BY-NC-ND 4.0).
 
-* The folder **ElasAdventures** contains vectorart of Elas on different adventures, for example:
-<img src="ElasAdventures/Balloons/IconBalloons_JPG_1280x2023.jpg" width=100>
+* The folder **ElasAdventures** contains vectorart of Elas on different adventures:
+<img src="ElasAdventures/RepoCardElasAdventures.png" width=300>
 
 * The folder **Illustrations** contains Illustrations that illustrate the workflow of systematic reviews with and without the use of ASReview. For example:
 
