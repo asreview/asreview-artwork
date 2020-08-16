@@ -8,7 +8,10 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 * The folder **ElasAdventures** contains vectorart of Elas on different adventures:
 <img src="ElasAdventures/RepoCardElasAdventures.png" width=900>
 
-* The folder **Illustrations** contains Illustrations that illustrate the workflow of systematic reviews with and without the use of ASReview. For example:
+* The folder **FlowChart** contains the vectorart illustrating the ASReview LAB flow, how it compares with a traditional screening process, how they fit into the systematic review process and other potential uses of ASReview LAB.
+<img src="FlowChart/RepoCardFlowChart.png" width=900>
+
+* The folder **Illustrations** contains Illustrations that illustrate the workflow of systematic reviews with and without the use of ASReview.
 
 <img src="Illustrations/RepoCardIllustrations.png" width=900>
 
