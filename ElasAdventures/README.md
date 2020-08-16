@@ -1,1 +1,1 @@
-[![ASReview](RepoCardElasAdventures.png)](https://github.com/asreview/asreview/)
+[(RepoCardElasAdventures.png)]
