@@ -22,4 +22,4 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 
 * The folder **SVGicons** contains svg's that can be used on the website or in the app
 
-<img src="SVGicons/RepoCardSVGIcons" width=900>
+<img src="SVGicons/RepoCardSVGIcons.png" width=900>
