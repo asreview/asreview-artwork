@@ -21,7 +21,7 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 
 * The folder **LogoASReviewLAB** contains raw and compiled files of the ASReviewLAB logo:
 
-<img src="LogoASReviewLAB/RepoCardASReviewLAB.png.png" width=900>
+<img src="LogoASReviewLAB/RepoCardASReviewLAB.png" width=900>
 
 * The folder **QuickTour** contains the artwork used in the quicktour
 
