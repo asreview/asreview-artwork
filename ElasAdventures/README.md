@@ -1,1 +1,1 @@
-[![ASReview](ElasAdventures/RepoCardElasAdventures.png)]
+[![ASReview](RepoCardElasAdventures.png)](https://github.com/asreview/asreview/)
