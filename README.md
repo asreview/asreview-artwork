@@ -23,6 +23,10 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 
 <img src="LogoASReviewLAB/PNG/Logo_stacked.png" width=100>
 
+* The folder **QuickTour** contains the artwork used in the quicktour
+
+<img src="QuickTour/RepoCardQuickTour.png" width=900>
+
 * The folder **SVGicons** contains svg's that can be used on the website or in the app
 
 <img src="SVGicons/RepoCardSVGicons.png" width=900>
