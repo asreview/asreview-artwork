@@ -25,7 +25,9 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 
 * The folder **LottieAnimation** contains animated json files
 
-![](LottieAnimation/TrainingElasJump.gif)
+![](LottieAnimation/Training/TrainingElasJump.gif)
+
+![](LottieAnimation/SetUpToReview/SetUpToReviewJump.gif)
 
 * The folder **QuickTour** contains the artwork used in the quicktour
 
