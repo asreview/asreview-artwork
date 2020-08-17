@@ -23,7 +23,7 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 
 <img src="LogoASReviewLAB/RepoCardASReviewLAB.png" width=900>
 
-* The folder **LottieAnimation** contains animated json files
+* The folder **LottieAnimation** contains animated json files created with [Lottie](https://github.com/airbnb/lottie-web) 
 
 ![](LottieAnimation/Training/TrainingElasJump.gif)
 
@@ -32,6 +32,9 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 * The folder **QuickTour** contains the artwork used in the quicktour
 
 <img src="QuickTour/RepoCardQuickTour.png" width=900>
+
+* The folder **Stickers** contains AI files of stickers that were designed a while back (hence a little outdated)
+<img src="Stickers/3stickers.png" width=600>
 
 * The folder **SVGicons** contains svg's that can be used on the website or in the app
 
