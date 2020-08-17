@@ -23,6 +23,10 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 
 <img src="LogoASReviewLAB/RepoCardASReviewLAB.png" width=900>
 
+* The folder **LottieAnimation** contains animated json files
+
+![](LottieAnimation/TrainingElasJump.gif)
+
 * The folder **QuickTour** contains the artwork used in the quicktour
 
 <img src="QuickTour/RepoCardQuickTour.png" width=900>
