@@ -13,7 +13,7 @@
 | FireMan |<img src="FireMan/ElasFireMan.png" width="200">| | |
 | HoldingSIGNS |<img src="HoldingSIGNS/PNG/BiggerSize/SetUp.png" width="200">|<img src="HoldingSIGNS/PNG/BiggerSize/InProgress.png" width="200"> |<img src="HoldingSIGNS/PNG/BiggerSize/InReview.png" width="200"> |
 | HoldingSIGNS |<img src="HoldingSIGNS/PNG/BiggerSize/Completed.png" width="200">|<img src="HoldingSIGNS/PNG/BiggerSize/Finished.png" width="200"> |<img src="HoldingSIGNS/PNG/BiggerSize/FullyRead.png" width="200"> |
-| HoldingSIGNS |<img src="HoldingSIGNS/PNG/BiggerSize/Published.png" width="200">|<img src="HoldingSIGNS/PNG/BiggerSize/Published_extra.png" width="200"> | |
+| HoldingSIGNS |<img src="HoldingSIGNS/PNG/BiggerSize/Published.png" width="200">|<img src="HoldingSIGNS/PNG/BiggerSize/Published_extra.png" width="200"> |<img src="HoldingSIGNS/PNG/BiggerSize/New.png" width="200"> |
 | OrderingPapers |<img src="OrderingPapers/LijstRelevantieELAS2.png" width="200">| | |
 | tv |<img src="tv/ElasTV_1.png" width="200">|<img src="tv/ElasTV_2.png" width="200"> | |
 | Welcome&Finished |<img src="Welcome&Finished/Welcome/ElasWelcome.png" width="200">|<img src="Welcome&Finished/Finished/ElasFinished.png" width="200"> | |
