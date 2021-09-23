@@ -1,4 +1,4 @@
-[![ASReview](JPG/RepoCardGithub1280x640.jpg)](https://github.com/asreview/asreview/)
+[![ASReview](PNG/GitHub_Repo_Card_Transparent.png)](https://github.com/asreview/asreview/)
 
 # ASReview artwork
 
