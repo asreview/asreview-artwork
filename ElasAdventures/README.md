@@ -8,7 +8,7 @@
 | Balloons |<img src="Balloons/IconBalloons_PNG_1280x1838.png" width="200">| | |
 | ChemistryLab |<img src="ChemistryLab/IconChemistryLab_PNG_1280x1811.png" width="200">| | |
 | ConstructionWorker |<img src="ConstructionWorker/ElasConstructionWorkerOrange.png" width="200">|<img src="ConstructionWorker/ElasConstructionWorkerYellow.png" width="200"> | |
-| ElasPad |<img src="ElasPad/ElasPad.png" width="200">| | |
+| ElasPad |<img src="ElasPad/ElasPad-v1.x.png" width="300">|<img src="ElasPad/ElasPad-v0.x.png" width="200"> | |
 | ElasPotter |<img src="ElasPotter/ElasPotter.png" width="200">| | |
 | FireMan |<img src="FireMan/ElasFireMan.png" width="200">| | |
 | HoldingSIGNS |<img src="HoldingSIGNS/PNG/BiggerSize/SetUp.png" width="200">|<img src="HoldingSIGNS/PNG/BiggerSize/InProgress.png" width="200"> |<img src="HoldingSIGNS/PNG/BiggerSize/InReview.png" width="200"> |
