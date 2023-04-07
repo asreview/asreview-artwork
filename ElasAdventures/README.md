@@ -4,6 +4,7 @@
 | Elas | Art-work | | |
 |---|---|---|---|
 | Academy |<img src="Academy/Elas_afstudeerhoedje.png" width="200">| | |
+| Tennis |<img src="ElasTennis/Elas_Tennis.png" width="200">| | |
 | Arrows  |<img src="Arrows/PNG/ArrowLeft.png" width="200">|<img src="Arrows/PNG/ArrowRight.png" width="200">|<img src="Arrows/PNG/ArrowRightAhead.png" width="200">|
 | Balloons |<img src="Balloons/IconBalloons_PNG_1280x1838.png" width="200">| | |
 | ChemistryLab |<img src="ChemistryLab/IconChemistryLab_PNG_1280x1811.png" width="200">| | |
