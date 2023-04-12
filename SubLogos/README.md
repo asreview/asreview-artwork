@@ -3,8 +3,8 @@
 
 | Logo       | Art-work                                                           |
 |------------|--------------------------------------------------------------------|
-| Lab        |<img src="lab/asreview_complete.png" width="200">                   |
-| Research   |<img src="research/asreview_sub_logo_RESEARCH.png" width="200">     |
+| Lab        |<img src="Lab/asreview_complete.png" width="200">                   |
+| Research   |<img src="Research/asreview_sub_logo_RESEARCH.png" width="200">     |
 | Academy    |<img src="subprojects/asreview_sub_logo-academy.png" width="200">   |
 | Datasets   |<img src="subprojects/asreview_sub_logo-datasets.png" width="200">  |
 | Datatools  |<img src="subprojects/asreview_sub_logo-datatools.png" width="200"> |
