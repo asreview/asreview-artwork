@@ -17,7 +17,7 @@
 | FireMan |<img src="FireMan/ElasFireMan.png" width="200">| | |
 | Winter |<img src="Winter/PNG/ElasWinter.png" width="200">| | |
 | Santa |<img src="Winter/PNG/SantaElas.png" width="200">| | |
-| SpecialEditions |<img src="SpecialEditons/Lion/ElasLion.png" width="200">|<img src="SpecialEditons/Lollypop/ElasLollypop.png" width="200"> | |
+| SpecialEditions |<img src="SpecialEditons/Lion/ElasLion.png" width="200">|<img src="SpecialEditons/Lollypop/ElasLollypop.png" width="200"> | <img src="SpecialEditons/Unicorn/Unicorn.png" width="200"> |
 | HoldingSIGNS |<img src="HoldingSIGNS/PNG/BiggerSize/SetUp.png" width="200">|<img src="HoldingSIGNS/PNG/BiggerSize/InProgress.png" width="200"> |<img src="HoldingSIGNS/PNG/BiggerSize/InReview.png" width="200"> |
 | HoldingSIGNS |<img src="HoldingSIGNS/PNG/BiggerSize/Completed.png" width="200">|<img src="HoldingSIGNS/PNG/BiggerSize/Finished.png" width="200"> |<img src="HoldingSIGNS/PNG/BiggerSize/FullyRead.png" width="200"> |
 | HoldingSIGNS |<img src="HoldingSIGNS/PNG/BiggerSize/Published.png" width="200">|<img src="HoldingSIGNS/PNG/BiggerSize/Published_extra.png" width="200"> |<img src="HoldingSIGNS/PNG/BiggerSize/New.png" width="200"> |
