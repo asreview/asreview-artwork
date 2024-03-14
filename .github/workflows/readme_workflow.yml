@@ -3,8 +3,7 @@ name: Update README
 on:
   push:
     branches:
-      - main
-      - AI-update_2
+      - master
 
 jobs:
   update-readme:
