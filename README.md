@@ -29,9 +29,6 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 
 <img src="QuickTour/RepoCardQuickTour.png" width=900>
 
-* The folder **Stickers** contains AI files of stickers that were designed a while back (hence a little outdated)
-<img src="Stickers/3stickers.png" width=600>
-
 * The folder **SubLogos** contains raw and compiled files of the ASReviewLAB and ASReviewRESEARCH logos:
 
 <img src="SubLogos/RepoCardSubLogos.png" width=900>
