@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Elas" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288.89 138.18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #010101;
+        stroke: #010101;
+        stroke-miterlimit: 10;
+        stroke-width: 7.84px;
+      }
+
+      .cls-2 {
+        fill: #ffcc07;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="3.92" y="3.92" width="281.05" height="130.34" rx="15.69" ry="15.69"/>
+  <g>
+    <circle class="cls-2" cx="109.71" cy="75.88" r="11.58"/>
+    <circle class="cls-2" cx="40.24" cy="75.88" r="11.58"/>
+    <circle class="cls-2" cx="60.82" cy="52.73" r="11.58"/>
+    <circle class="cls-2" cx="89.12" cy="52.73" r="11.58"/>
+    <circle class="cls-2" cx="248.65" cy="75.88" r="11.58"/>
+    <circle class="cls-2" cx="179.18" cy="75.88" r="11.58"/>
+    <circle class="cls-2" cx="199.76" cy="52.73" r="11.58"/>
+    <circle class="cls-2" cx="228.07" cy="52.73" r="11.58"/>
+  </g>
+</svg>
