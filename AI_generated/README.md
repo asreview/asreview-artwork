@@ -46,9 +46,6 @@ Below is a showcase of the artwork available in this repository:
 ### PNG/elas_zen.png
 <img src="PNG/elas_zen.png" width="250">
 
-### PNG/elas_oldschool.png
-<img src="PNG/elas_oldschool.png" width="250">
-
 ### PNG/elas_dog.png
 <img src="PNG/elas_dog.png" width="250">
 
