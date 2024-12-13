@@ -5,6 +5,8 @@
 |---|---|---|---|
 | Academy |<img src="Academy/Elas_afstudeerhoedje.png" width="200">| | |
 | Tennis |<img src="ElasTennis/Elas_Tennis.png" width="200">| | |
+| Tron |<img src="ElasTron/elas_tron.png" width="200">| | |
+| Tron Orange |<img src="ElasTron/elas_tron_orange.png" width="200">| | |
 | Rugby |<img src="ElasRugby/Rugby.png" width="200">| | |
 | SuperHero |<img src="SuperHero/SuperHero.png" width="200">| | |
 | Turtle |<img src="ElasTurtle/Elas_turtle.png" width="300">| | |
